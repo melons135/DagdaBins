@@ -1,6 +1,9 @@
 # DagdaBins
 This is a collection of binaries that I think kali should have by default
 
+## List of files that may need checked for updates due to active development
+- [LaZagne](https://github.com/AlessandroZ/LaZagne)
+
 ## SeImpersonatePrivilege Exploits
 The easy way to grab some of these files again.
 ```bash
